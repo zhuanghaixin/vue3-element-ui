@@ -1,15 +1,12 @@
 <template>
-   <div>
-       我的第一个组件
-   </div>
+  <div>Frank1</div>
 </template>
 
 <script>
-    export default {
-        name: "Frank"
-    }
+export default {
+  name: "Frank",
+};
 </script>
 
 <style scoped>
-
 </style>

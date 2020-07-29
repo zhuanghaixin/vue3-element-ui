@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <div>Frank2</div>
 </template>
 
 <script>
