@@ -1,5 +1,7 @@
 <template>
-
+<div>
+    Dialog
+</div>
 </template>
 
 <script>

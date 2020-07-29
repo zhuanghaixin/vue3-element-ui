@@ -1,5 +1,7 @@
 <template>
-
+<div>
+    Switch
+</div>
 </template>
 
 <script>
